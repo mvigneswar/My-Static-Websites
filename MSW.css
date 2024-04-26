@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.styleaa {
+    padding: 10px;
+    text-align: center;
+}
+
+.styleab {
+    width: 225px;
+}
+
+.styleac {
+    font-family: "Bree Serif";
+    font-size: 24px;
+    color: #183b56;
+}
+
+.stylead {
+    font-family: "Bree Serif";
+    font-size: 12px;
+    color: #616e7c;
+}
+
+.styleag {
+    padding: 4px;
+    width: 150px;
+}
+
+.styleba {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    height: 124vh;
+}
+
+.stylebb {
+    background-color: #ffffff;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    padding: 20px;
+}
+
+.stylebc {
+    font-size: 24px;
+    font-family: "Bree Serif";
+    color: #5752ab;
+}
+
+.stylebd {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-weight: 500;
+}
+
+.stylebe {
+    background-color: #ffffff;
+    color: #171f46;
+    border-color: #d7dfe9;
+    border-radius: 8px;
+    margin: 15px;
+    padding: 10px;
+    font-weight: 400;
+}
+
+.stylebf {
+    background-color: #5752ab;
+    color: #ffffff;
+    border-color: #d7dfe9;
+    border-radius: 8px;
+    margin: 15px;
+    padding: 10px;
+    font-weight: 400;
+}
+
+.styleca {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    background-size: cover;
+    height: 30vh;
+}
+
+.stylecb {
+    font-size: 32px;
+    font-family: "Caveat";
+    color: white;
+    padding: 12px;
+    width: 190px;
+}
+
+.stylecc {
+    background-color: #e6f6ff;
+    padding: 20px;
+    text-align: center;
+}
+
+.stylecd {
+    background-color: white;
+    width: 108px;
+    border-radius: 12px;
+    padding: 8px;
+    text-align: center;
+    margin: 10px;
+}
+
+.stylece {
+    height: 80px;
+    width: 80px;
+}
+
+.stylecf {
+    color: #616e7c;
+}
+
+.stylecg {
+    color: #323f4b;
+}
+
+.bg {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.card {
+    background-color: #f6c56e;
+    padding: 18px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.cc {
+    font-family: Bree Serif;
+    color: #323f4b;
+    font-size: 30px;
+}
+
+.parag {
+    font-family: Roboto;
+    color: #323f4b;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.but {
+    background-color: #ffffff;
+    color: #323f4b;
+    font-weight: bold;
+    font-size: 12px;
+    padding: 10px;
+    border-radius: 8px;
+    border-width: 0px;
+    padding-left: 16px;
+    height: 40px;
+    width: 140px;
+}
+
+.styleea {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.styleeb {
+    background-color: #ffffff;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    padding: 15px;
+}
+
+.styleec {
+    font-size: 12px;
+    font-family: "Roboto";
+    color: #7b8794;
+}
+
+.styleed {
+    font-size: 17px;
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.styleee {
+    font-size: 10px;
+    font-family: "Roboto";
+    color: #7b8794;
+}
+
+.styleef {
+    background-color: #323f4b;
+    color: #ffffff;
+    border-radius: 8px;
+    font-family: "Roboto";
+    font-size: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
